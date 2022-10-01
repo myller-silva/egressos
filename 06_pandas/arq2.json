@@ -1,0 +1,10 @@
+
+[
+  {
+    "nome": ["matheus", "myller", "joao"],
+    "idade": [25, 23, 19]
+  },{
+    "nome": ["maria", "josefa", "milena"],
+    "idade": [45, 30, 20]
+  }
+]
